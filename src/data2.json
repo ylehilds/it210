@@ -1,0 +1,101 @@
+    {
+
+	"players" :
+	[
+		{ "name":"hulk",
+		  "image": "images/hulk_face.gif",
+		  "avatar": "images/hulk_face_avatar.gif",
+		  "id":0
+		 },
+		{ "name":"batman",
+		  "image": "images/Batman-color_face.gif",
+		  "avatar": "images/Batman-color_face_avatar.gif",
+		  "id":1
+		},
+		{ "name":"mega-man",
+		  "image": "images/mega-man_face.gif",
+		  "avatar": "images/mega-man_face_avatar.gif",
+		  "id":2
+		},
+		{ "name":"mario",
+		  "image": "images/mario_face.gif",
+		  "avatar": "images/mario_face_avatar.gif",
+		  "id":3
+		},
+		{ "name":"zelda",
+		  "image": "images/zelda_face.gif",
+		  "avatar": "images/zelda_face_avatar.gif",
+		  "id":4 
+		},
+		{ "name":"spider-man",
+		  "image": "images/spider-man.gif",
+		  "avatar": "images/spider-man_avatar.gif",
+		  "id":5
+		},
+		{ "name":"sponge_bob",
+		  "image": "images/SpongeBob_Square_face.gif",
+		  "avatar": "images/SpongeBob_Square_face_avatar.gif",
+		  "id":6
+		},
+		{ "name":"princess-peach",
+		  "image": "images/princess-peach.gif",
+		  "avatar": "images/princess-peach_avatar.gif",
+		  "id":7
+		}
+	],
+	"games" :
+	[
+		{"ticTacToe" : 
+			[
+				{"player1":0,
+				"player2":1,
+				"winner":1},
+				{"player1":2,
+				"player2":3,
+				"winner":3},
+				{"player1":4,
+				"player2":5,
+				"winner":5},
+				{"player1":6,
+				"player2":7,
+				"winner":7},
+				{"player1":"",
+				"player2":"",
+				"winner":""},
+				{"player1":"",
+				"player2":"",
+				"winner":""},
+				{"player1":"",
+				"player2":"",
+				"winner":""}
+			] 
+		},
+			
+		{"connect4" :
+			[
+				{"player1":0,
+				"player2":1,
+				"winner":1},
+				{"player1":2,
+				"player2":3,
+				"winner":3},
+				{"player1":4,
+				"player2":5,
+				"winner":5},
+				{"player1":6,
+				"player2":7,
+				"winner":7},
+				{"player1":"",
+				"player2":"",
+				"winner":""},
+				{"player1":"",
+				"player2":"",
+				"winner":""},
+				{"player1":"",
+				"player2":"",
+				"winner":""}
+			] 
+		}
+	]
+
+    }

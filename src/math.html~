@@ -1,0 +1,36 @@
+
+<nobr>
+&lt;html&gt; <BR>
+&lt;head&gt; <BR>
+&lt;title&gt;Math Example&lt;/title&gt;<BR>
+&lt;/head&gt; <BR>
+&lt;BODY BGCOLOR="#FFFFFF"&gt;<BR>
+&lt;P&gt;<BR>
+&lt;FORM method="post" Action="/cgi-bin/math.cgi"&gt;<BR>
+<BR>
+&lt;b&gt;Give me a number between one and nine:&lt;/b&gt; &lt;INPUT TUPE="text" NAME="singledgt"&gt;&lt;BR&gt;<BR>
+&lt;b&gt;Give me a number between ten and 99:&lt;/b&gt; &lt;INPUT TUPE="text" NAME="doubledgt"&gt;<BR>
+&lt;P&gt;<BR>
+&lt;b&gt;Give me a price you might pay for dinner on a date:&lt;/b&gt; $&lt;INPUT TUPE="text" NAME="dinner"&gt;<BR>
+&lt;P&gt;<BR>
+
+&lt;center&gt;<BR>
+&lt;INPUT TYPE=submit Value="SEND"&gt;<BR>
+&lt;INPUT TYPE=reset Value="CLEAR"&gt;<BR>
+&lt;/center&gt;<BR>
+&lt;/FORM&gt;<BR>
+<BR>
+&lt;/body&gt; <BR>
+&lt;/html&gt;<BR>
+</NOBR>
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+AuthUserFile /var/secret/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Lehi's protected files"
+AuthType Basic
+
+require valid-user
+

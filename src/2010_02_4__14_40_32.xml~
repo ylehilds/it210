@@ -1,0 +1,62 @@
+<Results>
+<title>My Tournament Results</title>
+<match name="one">
+<title>Match 1</title>
+<member id="0" winner="0"/>
+<member id="3"/>
+</match>
+<match name="one">
+<title>Match 1</title>
+<member id="0" winner="0"/>
+<member id="3"/>
+</match>
+<match name="one">
+<title>Match 1</title>
+<member id="0" winner="0"/>
+<member id="3"/>
+</match>
+<match name="one">
+<title>Match 1</title>
+<member id="0" winner="0"/>
+<member id="3"/>
+</match>
+<match name="one">
+<title>Match 1</title>
+<member id="0" winner="0"/>
+<member id="3"/>
+</match>
+<match name="one">
+<title>Match 1</title>
+<member id="0" winner="0"/>
+<member id="3"/>
+</match>
+<match name="one">
+<title>Match 1</title>
+<member id="0" winner="0"/>
+<member id="3"/>
+</match>
+<user id="goku">
+<fullname>"Goku Son"</fullname>
+</user>
+<user id="goku">
+<fullname>"Goku Son"</fullname>
+</user>
+<user id="goku">
+<fullname>"Goku Son"</fullname>
+</user>
+<user id="goku">
+<fullname>"Goku Son"</fullname>
+</user>
+<user id="goku">
+<fullname>"Goku Son"</fullname>
+</user>
+<user id="goku">
+<fullname>"Goku Son"</fullname>
+</user>
+<user id="goku">
+<fullname>"Goku Son"</fullname>
+</user>
+<user id="goku">
+<fullname>"Goku Son"</fullname>
+</user>
+</Results>

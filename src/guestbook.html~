@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Guestbook Script</title>
+</head> 
+<BODY BGCOLOR="#FFFFFF">
+<P>
+<FORM method="post" Action="/cgi-bin/guestbook.cgi">
+
+<INPUT NAME="name" Size=50 Type="text"> <B>Your Name</B><BR>
+<INPUT NAME="email" Size=50 Type="text"> <B>Your E-Mail Address</B><BR>
+<p>
+<B>Would you like to sign up for our Newsletter?</B>
+<INPUT TYPE="radio" NAME="newsletter" VALUE="yes"> <B>Yes</B>
+<INPUT TYPE="radio" NAME="newsletter" VALUE="no"> <B>No</B><P>
+
+
+<INPUT TYPE="hidden" NAME="submitaddress" VALUE="lehilds@gmail.com">
+
+<B>Write to me below:</B><P>
+<TEXTAREA NAME="feedback" ROWS=10 COLS=50></TEXTAREA><P>
+
+<center>
+<INPUT TYPE=submit Value="SEND">
+<INPUT TYPE=reset Value="CLEAR">
+</center>
+</FORM>
+
+</body>
+</html>
+

@@ -1,0 +1,402 @@
+/* comments in css file
+*/
+
+/* hover attributes*/
+a:hover { text-decoration: underline; color: red; 
+          background-color: #ccffcc; } 
+
+/* banner attributes*/
+#tic-tac-toe_banner{
+left:447px;
+position:absolute;
+top:-47px;
+display:none;
+}
+
+#choose_game_text {
+left:600px;
+position:absolute;
+top:65px;
+}
+
+#banner_title_real {
+left:-83px;
+position:absolute;
+top:-77px;
+}
+
+#byu {
+height:202px;
+left:238px;
+position:absolute;
+top:-18px;
+width:285px;
+z-index:1;
+}
+
+/* customized horizontal line*/
+#my_hr {
+color:orange;
+height:1px;
+position:absolute;
+top:224px;
+width:99%;
+}
+/* border attributes*/
+#layer2 {
+width:600px;
+display:none;
+} 
+/* bracket picture position*/
+#my_Bracket {
+left:230px;
+position:absolute;
+top:261px;
+}
+/* 3 links attributes*/
+#link1 {
+left:8px;
+position:absolute;
+top:237px;
+}
+
+#link2 {
+left:8px;
+position:absolute;
+top:258px;
+}
+
+#link3 {
+left:8px;
+position:absolute;
+top:280px;
+}
+/* boxes attributes such as position*/
+#input1 {
+left:176px;
+position:absolute;
+top:330px;
+z-index:1;
+display:none;
+}
+
+#input2 {
+left:176px;
+position:absolute;
+top:482px;
+z-index:1;
+}
+
+#input3 {
+left:176px;
+position:absolute;
+top:612px;
+z-index:1;
+}
+
+#input4 {
+left:176px;
+position:absolute;
+top:763px;
+z-index:1;
+}
+
+#input5 {
+left:478px;
+position:absolute;
+top:408px;
+z-index:1;
+}
+
+#input6 {
+left:481px;
+position:absolute;
+top:691px;
+z-index:1;
+}
+
+#input7 {
+left:674px;
+position:absolute;
+top:550px;
+z-index:1;
+}
+/* switch color form attributes, position*/
+#myform {
+left:8px;
+position:absolute;
+top:305px;
+}
+/* essentially from this point on are all my images and text positioning of the document*/
+#slot_0_Name {
+left:265px;
+position:absolute;
+top:279px;
+}
+
+#slot_0_Picture{
+height:55px;
+left:378px;
+position:absolute;
+top:257px;
+width:75px;
+z-index:1;
+}
+#slot_1_Name {
+left:264px;
+position:absolute;
+top:339px;
+}
+#slot_1_Picture {
+height:53px;
+left:378px;
+position:absolute;
+top:319px;
+width:75px;
+z-index:1;
+}
+#slot_2_Name {
+left:264px;
+position:absolute;
+top:431px;
+}
+
+#slot_2_Picture {
+height:55px;
+left:374px;
+position:absolute;
+top:409px;
+width:75px;
+z-index:1;
+}
+#slot_3_Name {
+left:266px;
+position:absolute;
+top:491px;
+}
+
+#slot_3_Picture {
+height:52px;
+left:373px;
+position:absolute;
+top:472px;
+width:75px;
+z-index:1;
+}
+#slot_4_Name {
+left:269px;
+position:absolute;
+top:561px;
+}
+
+#slot_4_Picture {
+height:55px;
+left:368px;
+position:absolute;
+top:538px;
+width:75px;
+z-index:1;
+}
+#slot_5_Name {
+left:264px;
+position:absolute;
+top:623px;
+}
+
+#slot_5_Picture {
+height:55px;
+left:373px;
+position:absolute;
+top:600px;
+width:75px;
+z-index:1;
+}
+#slot_6_Name {
+left:264px;
+position:absolute;
+top:713px;
+}
+
+#slot_6_Picture {
+height:55px;
+left:379px;
+position:absolute;
+top:690px;
+width:75px;
+z-index:1;
+}
+#slot_7_Name {
+left:261px;
+position:absolute;
+top:774px;
+}
+#slot_7_Picture {
+height:55px;
+left:391px;
+position:absolute;
+top:751px;
+width:60px;
+z-index:1;
+}
+
+#slot_8_Name {
+left:484px;
+position:absolute;
+top:310px;
+}
+
+#slot_8_Picture {
+height:55px;
+left:571px;
+position:absolute;
+top:287px;
+width:75px;
+z-index:1;
+}
+#slot_9_Name {
+left:480px;
+position:absolute;
+top:462px;
+}
+#slot_9_Picture {
+height:53px;
+left:572px;
+position:absolute;
+top:440px;
+width:75px;
+z-index:1;
+}
+#slot_10_Name {
+left:480px;
+position:absolute;
+top:593px;
+}
+
+#slot_10_Picture {
+height:55px;
+left:574px;
+position:absolute;
+top:569px;
+width:75px;
+z-index:1;
+}
+#slot_11_Name {
+left:481px;
+position:absolute;
+top:743px;
+}
+
+#slot_11_Picture {
+height:52px;
+left:570px;
+position:absolute;
+top:722px;
+width:75px;
+z-index:1;
+}
+
+#slot_12_Name {
+left:674px;
+position:absolute;
+top:402px;
+}
+
+#slot_12_Picture {
+height:55px;
+left:791px;
+position:absolute;
+top:379px;
+width:75px;
+z-index:1;
+}
+#slot_13_Name {
+left:672px;
+position:absolute;
+top:683px;
+}
+
+#slot_13_Picture {
+height:55px;
+left:782px;
+position:absolute;
+top:659px;
+width:75px;
+z-index:1;
+}
+#slot_14_Name {
+left:925px;
+position:absolute;
+top:563px;
+}
+
+#slot_14_Picture {
+height:55px;
+left:1043px;
+position:absolute;
+top:539px;
+width:75px;
+z-index:1;
+}
+
+#slot_15_Name {
+left:1000px;
+position:absolute;
+top:563px;
+}
+
+#slot_15_Picture {
+height:55px;
+left:1089px;
+position:absolute;
+top:539px;
+width:75px;
+z-index:1;
+}
+
+#Introduction_Picture_Tic_Tac_Toe {
+height:266px;
+left:231px;
+position:absolute;
+top:374px;
+width:309px;
+z-index:1;
+}
+
+#Introduction_Picture_Connect4 {
+height:313px;
+left:660px;
+position:absolute;
+top:339px;
+width:330px;
+z-index:1;
+}
+#connect4_banner {
+left:447px;
+position:absolute;
+top:-47px;
+display:none;
+}
+
+#not_member_statement {
+height:55px;
+left:878px;
+position:absolute;
+top:6px;
+width:75px;
+z-index:1;
+}
+
+#register_link {
+left:1001px;
+position:absolute;
+top:19px;
+width:75px;
+z-index:1;
+}
+
+#name_taken_error_message {
+left:100px;
+position:absolute;
+top:19px;
+width:75px;
+}

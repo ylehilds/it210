@@ -1,0 +1,13 @@
+<html>
+<head><title>Control Panel</title><head>
+<body>
+<h1>Control Panel</h1>
+<a href="logFiles.html">Log files</a>
+<p></p>
+<a href="deleteFiles.html">delete files </a>
+<p></p>
+<a href="http://localhost:8180/delete.jsp">Delete Player</a>
+<p></p>
+<a href="http://localhost:8180/RenamePlayer.jsp">Rename Player</a>
+</body>
+</html>

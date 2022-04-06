@@ -1,0 +1,13 @@
+<HTML>
+<TITLE>deletes xml log files</TITLE>
+
+
+<body>
+
+<script>
+this.window.location = "http://localhost/cgi-bin/deleteXml.pl";
+</script>
+
+</body>
+
+</html>
