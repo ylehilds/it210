@@ -1,4 +1,4 @@
-# IT210
+# Dynamic Web Project Demonstrating Full-Stack Fluency
 
 This repository contains coursework and projects with a strong focus on **web development fundamentals** using **PHP** as the server-side language and **jQuery/JavaScript** for interactivity on the client side. Inside the `src/` folder are numerous examples, small applications, and exercises. One of the highlights is a working **Connect-4 game** implemented with PHP (for game state and logic) and jQuery/JavaScript (for front-end interactivity).
 
